@@ -1,7 +1,8 @@
 # sanity-web-template
-Template for Sanity web application. https://www.sanity.io/
+Template for Sanity web application.
+https://www.sanity.io/
 
 ## Setup
 ```
-yarn global add @sanity/cl
+yarn global add @sanity/cli
 ```
